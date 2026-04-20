@@ -30,8 +30,10 @@ It is especially useful for:
 | Emilio Calvano, Giacomo Calzolari, Vincenzo Denicolò, Sergio Pastorello | *Artificial Intelligence, Algorithmic Pricing, and Collusion* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E119462V1) |
 | Dominic Coey, Bradley Larsen, Brennan Platt | *Discounts and Deadlines in Consumer Search* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E119387V2) |
 | Christopher Stanton, Catherine Thomas | *Who Benefits from Online Gig Economy Platforms?* | *American Economic Review* | 2021 | [Open](https://doi.org/10.3886/E214341V1) |
+| Paul Dolfen, Liran Einav, Peter J. Klenow, Benjamin Klopack, Jonathan D. Levin, Larry Levin, Wayne Best | *Assessing the Gains from E-Commerce* | *American Economic Journal: Macroeconomics* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/154121/version/V1/view) |
 | Milena Djourelova, Ruben Durante, Gregory Martin | *The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10120113) |
 | J. C. Castillo | *Who Benefits From Surge Pricing?* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15191154) |
+
 
 
 ---
