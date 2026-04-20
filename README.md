@@ -32,6 +32,7 @@ It is especially useful for:
 | Christopher Stanton, Catherine Thomas | *Who Benefits from Online Gig Economy Platforms?* | *American Economic Review* | 2021 | [Open](https://doi.org/10.3886/E214341V1) |
 | Paul Dolfen, Liran Einav, Peter J. Klenow, Benjamin Klopack, Jonathan D. Levin, Larry Levin, Wayne Best | *Assessing the Gains from E-Commerce* | *American Economic Journal: Macroeconomics* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/154121/version/V1/view) |
 | Milena Djourelova, Ruben Durante, Gregory Martin | *The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10120113) |
+| Jean-François Houde, Peter Newberry, Katja Seim | *Nexus Tax Laws and Economies of Density in E-Commerce: A Study of Amazon's Fulfillment Center Network* | *Econometrica* | 2023 | [Open](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.3982%2FECTA15265&file=ecta200498-sup-0002-dataandprograms.zip) |
 | J. C. Castillo | *Who Benefits From Surge Pricing?* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15191154) |
 
 
