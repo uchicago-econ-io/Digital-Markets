@@ -24,6 +24,7 @@ It is especially useful for:
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Liran Einav, Jonathan Levin, Igor Popov, Neel Sundaresan | *Growth, Adoption, and Use of Mobile E-Commerce* | *American Economic Review* | 2014 | [Open](https://www.openicpsr.org/openicpsr/project/112810/version/V1/view) |
+| Liran Einav, Dan Knoepfle, Jonathan Levin, Neel Sundaresan | *Sales Taxes and Internet Commerce* | *American Economic Review* | 2014 | [Open](https://www.openicpsr.org/openicpsr/project/112724/version/V1/view) |
 | Yuriy Gorodnichenko, Oleksandr Talavera | *Price Setting in Online Markets: Basic Facts, International Comparisons, and Cross-Border Integration* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E113002V1) |
 | Michael Dinerstein, Liran Einav, Jonathan Levin, Neel Sundaresan | *Consumer Price Search and Platform Design in Internet Commerce* | *American Economic Review* | 2018 | [Open](https://doi.org/10.3886/E113193V1) |
 | Emilio Calvano, Giacomo Calzolari, Vincenzo Denicolò, Sergio Pastorello | *Artificial Intelligence, Algorithmic Pricing, and Collusion* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E119462V1) |
