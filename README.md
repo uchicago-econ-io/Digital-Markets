@@ -28,8 +28,8 @@ It is especially useful for:
 | Yuriy Gorodnichenko, Oleksandr Talavera | *Price Setting in Online Markets: Basic Facts, International Comparisons, and Cross-Border Integration* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E113002V1) |
 | Michael Dinerstein, Liran Einav, Jonathan Levin, Neel Sundaresan | *Consumer Price Search and Platform Design in Internet Commerce* | *American Economic Review* | 2018 | [Open](https://doi.org/10.3886/E113193V1) |
 | Emilio Calvano, Giacomo Calzolari, Vincenzo Denicolò, Sergio Pastorello | *Artificial Intelligence, Algorithmic Pricing, and Collusion* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E119462V1) |
-| Gur Huberman, Jacob D. Leshno, Ciamac Moallemi | *Monopoly without a Monopolist: An Economic Analysis of the Bitcoin Payment System* | *The Review of Economic Studies* | 2021 | [Open](https://doi.org/10.5281/zenodo.4502715) |
 | Dominic Coey, Bradley Larsen, Brennan Platt | *Discounts and Deadlines in Consumer Search* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E119387V2) |
+| Gur Huberman, Jacob D. Leshno, Ciamac Moallemi | *Monopoly without a Monopolist: An Economic Analysis of the Bitcoin Payment System* | *The Review of Economic Studies* | 2021 | [Open](https://doi.org/10.5281/zenodo.4502715) |
 | Christopher Stanton, Catherine Thomas | *Who Benefits from Online Gig Economy Platforms?* | *American Economic Review* | 2021 | [Open](https://doi.org/10.3886/E214341V1) |
 | Paul Dolfen, Liran Einav, Peter J. Klenow, Benjamin Klopack, Jonathan D. Levin, Larry Levin, Wayne Best | *Assessing the Gains from E-Commerce* | *American Economic Journal: Macroeconomics* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/154121/version/V1/view) |
 | El Hadi Caoui | *Estimating the Costs of Standardization: Evidence from the Movie Industry* | *The Review of Economic Studies* | 2023 | [Open](https://zenodo.org/records/6554812) |
