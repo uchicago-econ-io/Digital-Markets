@@ -23,6 +23,7 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Igal Hendel, Aviv Nevo, François Ortalo-Magné | *The Relative Performance of Real Estate Marketing Platforms: MLS versus FSBOMadison.Com* | *American Economic Review* | 2009 | [Open](https://www.openicpsr.org/openicpsr/project/113337/version/V1/view) |
 | Liran Einav, Jonathan Levin, Igor Popov, Neel Sundaresan | *Growth, Adoption, and Use of Mobile E-Commerce* | *American Economic Review* | 2014 | [Open](https://www.openicpsr.org/openicpsr/project/112810/version/V1/view) |
 | Liran Einav, Dan Knoepfle, Jonathan Levin, Neel Sundaresan | *Sales Taxes and Internet Commerce* | *American Economic Review* | 2014 | [Open](https://www.openicpsr.org/openicpsr/project/112724/version/V1/view) |
 | Yuriy Gorodnichenko, Oleksandr Talavera | *Price Setting in Online Markets: Basic Facts, International Comparisons, and Cross-Border Integration* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E113002V1) |
