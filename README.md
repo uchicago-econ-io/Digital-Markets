@@ -21,6 +21,9 @@ It is especially useful for:
 
 ## 📦 Replication Packages
 
+## Top 5
+
+
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Igal Hendel, Aviv Nevo, François Ortalo-Magné | *The Relative Performance of Real Estate Marketing Platforms: MLS versus FSBOMadison.Com* | *American Economic Review* | 2009 | [Open](https://www.openicpsr.org/openicpsr/project/113337/version/V1/view) |
@@ -33,12 +36,34 @@ It is especially useful for:
 | Dominic Coey, Bradley Larsen, Brennan Platt | *Discounts and Deadlines in Consumer Search* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E119387V2) |
 | Gur Huberman, Jacob D. Leshno, Ciamac Moallemi | *Monopoly without a Monopolist: An Economic Analysis of the Bitcoin Payment System* | *The Review of Economic Studies* | 2021 | [Open](https://doi.org/10.5281/zenodo.4502715) |
 | Christopher Stanton, Catherine Thomas | *Who Benefits from Online Gig Economy Platforms?* | *American Economic Review* | 2021 | [Open](https://doi.org/10.3886/E214341V1) |
-| Paul Dolfen, Liran Einav, Peter J. Klenow, Benjamin Klopack, Jonathan D. Levin, Larry Levin, Wayne Best | *Assessing the Gains from E-Commerce* | *American Economic Journal: Macroeconomics* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/154121/version/V1/view) |
 | El Hadi Caoui | *Estimating the Costs of Standardization: Evidence from the Movie Industry* | *The Review of Economic Studies* | 2023 | [Open](https://zenodo.org/records/6554812) |
 | Milena Djourelova, Ruben Durante, Gregory Martin | *The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10120113) |
 | Jean-François Houde, Peter Newberry, Katja Seim | *Nexus Tax Laws and Economies of Density in E-Commerce: A Study of Amazon's Fulfillment Center Network* | *Econometrica* | 2023 | [Open](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.3982%2FECTA15265&file=ecta200498-sup-0002-dataandprograms.zip) |
 | J. C. Castillo | *Who Benefits From Surge Pricing?* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15191154) |
 
+## American Economic Journal: Microeconomics
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Alı Hortaçsu, F. Asís Martínez-Jerez, Jason Douglas | *The Geography of Trade in Online Transactions: Evidence from eBay and MercadoLibre* | *American Economic Journal: Microeconomics* | 2009 | [Open](https://doi.org/10.3886/E114315V1) |
+| Andrea Pozzi | *Shopping Cost and Brand Exploration in Online Grocery* | *American Economic Journal: Microeconomics* | 2012 | [Open](https://doi.org/10.3886/E114399V1) |
+| Liran Einav, Theresa Kuchler, Jonathan Levin, Neel Sundaresan | *Assessing Sale Strategies in Online Markets Using Matched Listings* | *American Economic Journal: Microeconomics* | 2015 | [Open](https://doi.org/10.3886/E114321V1) |
+| Imke Reimers | *Copyright and Generic Entry in Book Publishing* | *American Economic Journal: Microeconomics* | 2019 | [Open](https://doi.org/10.3886/E116435V1) |
+| Charles Angelucci, Julia Cagé | *Newspapers in Times of Low Advertising Revenues* | *American Economic Journal: Microeconomics* | 2019 | [Open](https://doi.org/10.3886/E116438V1) |
+| Joshua S. Gans, Avi Goldfarb, Mara Lederman | *Exit, Tweets, and Loyalty* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E118701V1) |
+| Oren Reshef | *Smaller Slices of a Growing Pie: The Effects of Entry in Platform Markets* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E179581V1) |
+| Michael Thaler | *The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in News* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E183845V1) |
+| Daniel Ershov | *Variety-Based Congestion in Online Markets: Evidence from Mobile Apps* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E181301V1) |
+| Charles Angelucci, Julia Cagé, Michael Sinkinson | *Media Competition and News Diets* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E183943V1) |
+| Emiliano Huet-Vaughn, Ethan McClure, Juan Carlos Suárez Serrato | *A Kinky Consistency: Experimental Evidence of Behavior under Linear and Nonlinear Budget Constraints* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E193188V1) |
+| Francesco Decarolis, Muxin Li, Filippo Paternollo | *Competition and Defaults in Online Search* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E209142V1) |
+| Michael Rolland Sullivan | *Sources of Limited Consideration and Market Power in E-Commerce* | *American Economic Journal: Microeconomics* | 2026 | [Open](https://doi.org/10.3886/E210641V1) |
+---
+
+## Other
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Paul Dolfen, Liran Einav, Peter J. Klenow, Benjamin Klopack, Jonathan D. Levin, Larry Levin, Wayne Best | *Assessing the Gains from E-Commerce* | *American Economic Journal: Macroeconomics* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/154121/version/V1/view) |
 
 
 ---
