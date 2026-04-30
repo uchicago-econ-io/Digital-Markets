@@ -41,6 +41,21 @@ It is especially useful for:
 | Jean-François Houde, Peter Newberry, Katja Seim | *Nexus Tax Laws and Economies of Density in E-Commerce: A Study of Amazon's Fulfillment Center Network* | *Econometrica* | 2023 | [Open](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.3982%2FECTA15265&file=ecta200498-sup-0002-dataandprograms.zip) |
 | J. C. Castillo | *Who Benefits From Surge Pricing?* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15191154) |
 
+
+## Review of Economics and Statistics
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Ashish Arora; Lee G. Branstetter; Matej Drev | *Going Soft: How the Rise of Software-Based Innovation Led to the Decline of Japan's IT Industry and the Resurgence of Silicon Valley* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RHHG2B) |
+| Oren Rigbi | *The Effects of Usury Laws: Evidence from the Online Loan Market* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26247) |
+| Tin Cheuk Leung | *What Is the True Loss Due to Piracy? Evidence from Microsoft Office in Hong Kong* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PAOZHW) |
+| Raffaella Sadun | *Does Planning Regulation Protect Independent Retailers?* | Review of Economics and Statistics | 2015 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27409) |
+| Alberto Cavallo | *Scraped Data and Sticky Prices* | Review of Economics and Statistics | 2018 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/021GV6) |
+| Maggie X. Chen; Min Wu | *The Value of Reputation in Trade: Evidence from Alibaba* | Review of Economics and Statistics | 2021 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MWN45S) |
+| Jacob B. Malone; Aviv Nevo; Zachary Nolan; Jonathan W. Williams | *Is OTT Video a Substitute for TV? Policy Insights from Cord-Cutting* | Review of Economics and Statistics | 2023 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I7WLOV) |
+| Yoon Jo; Misaki Matsumura; David E. Weinstein | *The Impact of Retail E-Commerce on Relative Prices and Consumer Welfare* | Review of Economics and Statistics | 2024 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KBWIFW) |
+
+
 ## American Economic Journal: Microeconomics
 
 | Authors | Paper | Journal | Year | Package |
