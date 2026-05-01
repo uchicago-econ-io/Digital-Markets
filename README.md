@@ -79,6 +79,8 @@ It is especially useful for:
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Paul Dolfen, Liran Einav, Peter J. Klenow, Benjamin Klopack, Jonathan D. Levin, Larry Levin, Wayne Best | *Assessing the Gains from E-Commerce* | *American Economic Journal: Macroeconomics* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/154121/version/V1/view) |
+| Yangguang Huang, Yu Xie | *Search algorithm, repetitive information, and sales on online platforms* | *International Journal of Industrial Organization* | 2023 | [Open](https://doi.org/10.5281/zenodo.7608444) |
+
 
 
 ---
